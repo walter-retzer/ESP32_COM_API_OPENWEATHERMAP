@@ -1,5 +1,5 @@
 # ESP32_E_OPENWEATHERMAP
-- Desenvolvimento de um Dispositivo IoT para requisição de dados de Previsão do Tempo ao Server OpenWeatherMap utilizando o microcontrolador ESP32.
+- Desenvolvimento de um Dispositivo IoT para requisição de dados de Previsão do Tempo através de API ao Server OpenWeatherMap utilizando o microcontrolador ESP32.
 
 ## DISPOSITIVO IoT DE PREVISÃO DO TEMPO COM ESP32 E OPENWEATHERMAP
 
